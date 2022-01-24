@@ -1,1 +1,2 @@
-# StockParser
+WPF, EFCore, .Net 6  
+Вытягивает котировки с Api в базу данных
