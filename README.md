@@ -1,1 +1,1 @@
-# StockParser
+# WPF, EFCore, .Net 6  
