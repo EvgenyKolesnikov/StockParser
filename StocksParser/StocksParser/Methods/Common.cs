@@ -8,11 +8,6 @@ namespace StocksParser.Methods
 {
     public static class Common
     {
-        
-
-
-
-
-
+        //Some static methods
     }
 }

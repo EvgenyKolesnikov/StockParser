@@ -2089,11 +2089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jecos\\source\\repos\\StocksParser\\StocksParser\\StocksParser.csproj",
+      "projectUniqueName": "C:\\Users\\Jecos\\Desktop\\Stock\\StockParser\\StocksParser\\StocksParser\\StocksParser.csproj",
       "projectName": "StocksParser",
-      "projectPath": "C:\\Users\\Jecos\\source\\repos\\StocksParser\\StocksParser\\StocksParser.csproj",
+      "projectPath": "C:\\Users\\Jecos\\Desktop\\Stock\\StockParser\\StocksParser\\StocksParser\\StocksParser.csproj",
       "packagesPath": "C:\\Users\\Jecos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jecos\\source\\repos\\StocksParser\\StocksParser\\obj\\",
+      "outputPath": "C:\\Users\\Jecos\\Desktop\\Stock\\StockParser\\StocksParser\\StocksParser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jecos\\AppData\\Roaming\\NuGet\\NuGet.Config",

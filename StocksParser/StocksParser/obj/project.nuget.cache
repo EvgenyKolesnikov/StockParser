@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pm8kwDFjOiYCpRTIXktkrjRp41Ly3+vZdachwQzosKVcvroCEq1W7tLyjl6rfNhLKqVUsokk0jhXzo2X27yN2A==",
+  "dgSpecHash": "5t6QlKwQMywrgBMdR9jTRDejyd2TztQP3Yn785DnClPW5kfi8UbgAFD3d7lO1Fv6074iCN6udtvLS52Ci0EnSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jecos\\source\\repos\\StocksParser\\StocksParser\\StocksParser.csproj",
+  "projectFilePath": "C:\\Users\\Jecos\\Desktop\\Stock\\StockParser\\StocksParser\\StocksParser\\StocksParser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jecos\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\Jecos\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
